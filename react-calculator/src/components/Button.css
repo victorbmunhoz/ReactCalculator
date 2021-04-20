@@ -10,6 +10,7 @@
     border-right: var(--border-button);
     border-left: var(--border-button);
     outline: none;
+    margin: 0.09px;
 }
 
 .button:active {
